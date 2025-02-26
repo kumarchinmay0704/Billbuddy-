@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    
+    <!-- App specific colors for light theme -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="primary_text">#DE000000</color>
+    <color name="secondary_text">#99000000</color>
+    <color name="hint_text">#3B608C</color>
+    <color name="accent_color">#4CAF50</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="button_background">#FFFFFF</color>
+    <color name="button_text">#3B608C</color>
+    <color name="divider_color">#1F000000</color>
+    <color name="blue_light">#1A6672FF</color>
+    <color name="darkblue">#6672FF</color>
+    <color name="grey">#757575</color>
+    
+    <!-- Missing colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="light_blue">#E8EEFF</color>
+    <color name="lightGrey">#F5F5F5</color>
+    <color name="blue">#2196F3</color>
+    
+    <!-- Additional colors needed -->
+
+
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Colors for ReportListAdapter -->
+    <color name="orange">#FF9800</color>
+    <color name="pink">#E91E63</color>
+    <color name="red">#Ef2642</color>
+    <color name="light_green">#369D3D</color>
+    <color name="green">#2d9738</color>
+    <color name="MainBackground">#0c0c0c</color>
+    <color name="dark_grey">#2C2C2C</color>
+    <color name="dark_bg">#1E1E1E</color>
+
+    <!-- Add these colors -->
+    <color name="card_gradient_start">#3949AB</color>
+    <color name="card_gradient_middle">#5C6BC0</color>
+    <color name="card_gradient_end">#7986CB</color>
+    <color name="light_grey">#E0E0E0</color>
+
+    <!-- Add or update these colors for developer cards -->
+
+
+    <!-- Add new gradient colors for each card -->
+    <color name="dev_card_1_start">#FF6B6B</color>
+    <color name="dev_card_1_end">#FFA07A</color>
+    <color name="dev_card_2_start">#4FACFE</color>
+    <color name="dev_card_2_end">#00F2FE</color>
+    <color name="dev_card_3_start">#A8E063</color>
+    <color name="dev_card_3_end">#56AB2F</color>
+
+
+
+</resources>
