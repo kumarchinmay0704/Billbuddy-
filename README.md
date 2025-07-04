@@ -38,15 +38,6 @@
 <!-- Add split bill screenshot here -->
 <img src="screenshots/splitbill.jpg" width="300" alt="Split Bill Screenshot" />
 
-### Video Call
-<!-- Add video call screenshot here -->
-<img src="screenshots/videocall.jpg" width="300" alt="Video Call Screenshot" />
-
-<!--
-### Live Demo
-<img src="screenshots/demo.gif" width="600" alt="App Demo GIF" />
--->
-
 ---
 
 ## ✨ Features
