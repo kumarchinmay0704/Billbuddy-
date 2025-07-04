@@ -25,7 +25,7 @@
 ## 📱 App Preview
 
 ### Profile & Dashboard
-<img src="screenshots/profile.jpg" width="300" alt="Profile Screenshot" />
+<img src="screenshots/profile.gif" width="300" alt="Profile Screenshot" />
 
 ### Card & Transactions
 <img src="screenshots/card.jpg" width="300" alt="Card Screenshot" />
